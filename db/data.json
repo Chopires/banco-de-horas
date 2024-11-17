@@ -1,0 +1,98 @@
+{
+  "funcionarios": [
+    {
+      "id": "aec2",
+      "nome": "Carlos Pires",
+      "saldo": 123,
+      "historico": [
+        {
+          "data": "2024-11-14",
+          "horas": 1,
+          "minutos": 3,
+          "tipo": "add"
+        },
+        {
+          "data": "2024-11-14",
+          "horas": 1,
+          "minutos": 0,
+          "tipo": "add"
+        }
+      ]
+    },
+    {
+      "id": "c8ea",
+      "nome": "Lúcia",
+      "saldo": 715,
+      "historico": [
+        {
+          "data": "2024-11-13T13:08:23.677Z",
+          "horas": 12,
+          "minutos": 0,
+          "tipo": "add"
+        },
+        {
+          "data": "2024-11-06",
+          "horas": 0,
+          "minutos": 5,
+          "tipo": "subtract"
+        }
+      ]
+    },
+    {
+      "id": "4696",
+      "nome": "Vera",
+      "saldo": 0,
+      "historico": []
+    },
+    {
+      "id": "0d0f",
+      "nome": "Cida",
+      "saldo": 135,
+      "historico": [
+        {
+          "data": "2024-11-14",
+          "horas": 2,
+          "minutos": 15,
+          "tipo": "add"
+        }
+      ]
+    },
+    {
+      "id": "e3f5",
+      "nome": "Carol",
+      "saldo": -1,
+      "historico": [
+        {
+          "data": "2024-11-06",
+          "horas": 0,
+          "minutos": 5,
+          "tipo": "add"
+        },
+        {
+          "data": "2024-11-14",
+          "horas": 1,
+          "minutos": 0,
+          "tipo": "subtract"
+        },
+        {
+          "data": "2024-11-14T14:02:38.749Z",
+          "horas": 1,
+          "minutos": 0,
+          "tipo": "add"
+        },
+        {
+          "data": "2024-11-14",
+          "horas": 0,
+          "minutos": 6,
+          "tipo": "subtract"
+        }
+      ]
+    },
+    {
+      "id": "6dae",
+      "nome": "Teste",
+      "saldo": 0,
+      "historico": []
+    }
+  ]
+}
